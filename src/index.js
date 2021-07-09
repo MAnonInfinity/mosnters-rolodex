@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import App from './App';
 
+// render takes 3 args: kya dikhaana hai, kaha dikhaana hai, callback(usually not needed)
 ReactDOM.render(
   <React.StrictMode>
     <App />
