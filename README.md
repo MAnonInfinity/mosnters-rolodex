@@ -1,4 +1,4 @@
-#Link: https://manoninfinity.github.io/mosnters-rolodex/
+# Link: https://manoninfinity.github.io/mosnters-rolodex/
 
 
 # Getting Started with Create React App
